@@ -1,1 +1,1 @@
-This is a visualization for problem ### of An Introduction to Probability by Sheldon Ross
+This is a visualization for problem 5.22 of _An Introduction to Probability_ by Sheldon Ross (I believe it was the 9th edition, but I only rented the book and no longer have it to refer to), a problem assigned to me in MATH 180A at UCSD. When I had trouble with the the problem, I decided simulating it and visualizing the results might help.
